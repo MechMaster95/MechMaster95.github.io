@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MITESH KUMAR SINGH on MITESH KUMAR SINGH</title>
+    <link>/</link>
+    <description>Recent content in MITESH KUMAR SINGH on MITESH KUMAR SINGH</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0700</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>EDDIE: A Knowledge-Backed QA Agent</title>
+      <link>/project/eddie/</link>
+      <pubDate>Fri, 20 Dec 2019 00:00:00 -0800</pubDate>
+      
+      <guid>/project/eddie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adversarial Question Generation</title>
+      <link>/project/adversarialqgen/</link>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 -0800</pubDate>
+      
+      <guid>/project/adversarialqgen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BKPFS: A Backup File System</title>
+      <link>/project/kernel-programming/</link>
+      <pubDate>Wed, 10 Apr 2019 00:00:00 -0700</pubDate>
+      
+      <guid>/project/kernel-programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UniqPass - A Security Enhancing Browser Extension</title>
+      <link>/project/uniqpass/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 -0700</pubDate>
+      
+      <guid>/project/uniqpass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single Shot Object Detection</title>
+      <link>/project/yolo/</link>
+      <pubDate>Mon, 11 Feb 2019 00:00:00 -0800</pubDate>
+      
+      <guid>/project/yolo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Activity Recognition In Big Bang Theory Scenes</title>
+      <link>/project/activity-recognition/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 -0800</pubDate>
+      
+      <guid>/project/activity-recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Science Projects</title>
+      <link>/project/do-popular-songs-endure/</link>
+      <pubDate>Tue, 27 Nov 2018 00:00:00 -0800</pubDate>
+      
+      <guid>/project/do-popular-songs-endure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Craigslist Car &amp; Trucks Ads Analysis</title>
+      <link>/project/craiglistanalysis/</link>
+      <pubDate>Tue, 20 Nov 2018 00:00:00 -0800</pubDate>
+      
+      <guid>/project/craiglistanalysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I will be spending my summer at Facebook, Menlo Park. Looking forward to an amazing summer!</title>
+      <link>/post/getting-started/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>/post/getting-started/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SPOJ Toolkit</title>
+      <link>/project/spojtoolkit/</link>
+      <pubDate>Mon, 27 Jan 2014 00:00:00 -0800</pubDate>
+      
+      <guid>/project/spojtoolkit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mini GCC Compiler</title>
+      <link>/project/ccompiler/</link>
+      <pubDate>Fri, 26 Apr 2013 00:00:00 -0700</pubDate>
+      
+      <guid>/project/ccompiler/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
